@@ -1,4 +1,3 @@
-#忽略index.js
-index.js
+
 #忽略text 目录下所有文件
 test/
